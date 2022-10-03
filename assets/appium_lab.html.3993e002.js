@@ -1,0 +1,1 @@
+const t={key:"v-53c50d87",path:"/app-testing/appium_lab.html",title:"appium lab",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1664795203e3,contributors:[{name:"defnngj",email:"defnngj@gmail.com",commits:1}]},filePathRelative:"app-testing/appium_lab.md"};export{t as data};
