@@ -1,1 +1,0 @@
-const e={key:"v-299549e4",path:"/app-testing/page_object.html",title:"Page Object",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1678722287e3,contributors:[{name:"defnngj",email:"defnngj@gmail.com",commits:3}]},filePathRelative:"app-testing/page_object.md"};export{e as data};
