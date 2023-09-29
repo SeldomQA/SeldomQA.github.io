@@ -1,4 +1,4 @@
-import{_ as n,o as s,c as a,e as t}from"./app-8721b20e.js";const p={},o=t(`<h1 id="链式调用" tabindex="-1"><a class="header-anchor" href="#链式调用" aria-hidden="true">#</a> 链式调用</h1><p>方法链接是一种技术，用于对同一个对象进行多个方法调用，只使用一次对象引用。</p><h3 id="基本例子" tabindex="-1"><a class="header-anchor" href="#基本例子" aria-hidden="true">#</a> 基本例子</h3><p>先来看一下如何通过seldom使用链式调用编写Web测试用例。</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">import</span> seldom
+import{_ as n,o as s,c as a,e as t}from"./app-1e874560.js";const p={},o=t(`<h1 id="链式调用" tabindex="-1"><a class="header-anchor" href="#链式调用" aria-hidden="true">#</a> 链式调用</h1><p>方法链接是一种技术，用于对同一个对象进行多个方法调用，只使用一次对象引用。</p><h3 id="基本例子" tabindex="-1"><a class="header-anchor" href="#基本例子" aria-hidden="true">#</a> 基本例子</h3><p>先来看一下如何通过seldom使用链式调用编写Web测试用例。</p><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">import</span> seldom
 <span class="token keyword">from</span> seldom <span class="token keyword">import</span> Steps
 
 

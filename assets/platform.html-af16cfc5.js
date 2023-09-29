@@ -1,4 +1,4 @@
-import{_ as s,o as n,c as a,e as t}from"./app-8721b20e.js";const e={},o=t(`<h1 id="平台化支持" tabindex="-1"><a class="header-anchor" href="#平台化支持" aria-hidden="true">#</a> 平台化支持</h1><p>为了更好的支持测试用例平台化，Seldom 提供了API用于获取用例列表，以及根据传入的用例信息运行测试用例。</p><p>目录结构如下：</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>mypro/
+import{_ as s,o as n,c as a,e as t}from"./app-1e874560.js";const e={},o=t(`<h1 id="平台化支持" tabindex="-1"><a class="header-anchor" href="#平台化支持" aria-hidden="true">#</a> 平台化支持</h1><p>为了更好的支持测试用例平台化，Seldom 提供了API用于获取用例列表，以及根据传入的用例信息运行测试用例。</p><p>目录结构如下：</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>mypro/
 ├── test_dir/
 │   ├── module_api/
 │   │   ├── test_http_demo.py
